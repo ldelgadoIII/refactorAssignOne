@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Section */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +48,8 @@ a {
     text-decoration: none;
 }
 
+/* Major Image Section */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +58,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* Main Section */
 
 p {
     font-size: 16px;
@@ -128,6 +134,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Aside Section */
 
 .benefits {
     margin-right: 20px;
